@@ -10,7 +10,6 @@
   },
   "namespace": "@symtend",
   "license": "MIT",
-  "private": "false",
   "dependencies": {
     "react": "^18.2.0"
   },
